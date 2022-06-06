@@ -25,7 +25,8 @@
 - Seaborn
 - Matplotlib
 - Collections
-- Math
+- AST
+- Re
 
 
 ## **Project Motivation**
@@ -44,3 +45,16 @@ This project focuses on answering the following questions:
 - What are the most common verifications from host in the listings ?
 - How different types of features attract the guests for renting a homestay ?
 - What are the most influential features affect the price of homestays in Seattle ?
+
+
+## **File Descriptions**
+
+- seattle_airbnb_analysis.ipynb notebook contains a complete analysis to answer the questions and clearly explains them with visualizations.
+- listings.csv file located in dataset/seattle_airbnb folder is the original dataset in csv format
+
+
+## **Usage**
+
+- Install all packages using requirements.txt file. The command to install: **pip install -r requirements.txt**
+
+- Run all cells in the notebook file.
