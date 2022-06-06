@@ -55,6 +55,6 @@ This project focuses on answering the following questions:
 
 ## **Usage**
 
-- Install all packages using requirements.txt file. This is the command to install: `pip install -r requirements.txt*`
+- Install all packages using requirements.txt file. This is the command to install: `pip install -r requirements.txt`
 
 - Run all cells in the notebook file.
