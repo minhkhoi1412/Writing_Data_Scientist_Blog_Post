@@ -1,4 +1,4 @@
-# **Writing a Data Scientist Blog Post**
+# [**Writing a Data Scientist Blog Post**](https://medium.com/@neo.nxmk/a-quick-peek-into-the-airbnb-activity-in-seattle-e7cfd21c18)
 
 
 ## **Table of contents**
