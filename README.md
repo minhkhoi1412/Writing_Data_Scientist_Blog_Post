@@ -1,4 +1,4 @@
-# [**Writing a Data Scientist Blog Post**](https://medium.com/@neo.nxmk/a-quick-peek-into-the-airbnb-activity-in-seattle-e7cfd21c18)
+# **Writing a Data Scientist Blog Post**
 
 
 ## **Table of contents**
@@ -7,6 +7,8 @@
 - [Project Motivation](#project-motivations)
 - [File Descriptions](#file-descriptions)
 - [Usage](#usage)
+- [Results](#results)
+- [Acknowledgements](#acknowledgements)
 
 
 ## **Installations**
@@ -42,9 +44,9 @@ This dataset includes the following Airbnb activity:
 
 This project focuses on answering the following questions:
 
-- What are the most common verifications from host in the listings ?
-- How different types of features attract the guests for renting a homestay ?
-- What are the most influential features affect the price of homestays in Seattle ?
+- What are the most common verifications from hosts in the listings?
+- How do different types of features attract the guests for renting a homestay?
+- What are the most influential features that affect the price of homestays in Seattle?
 
 
 ## **File Descriptions**
@@ -58,3 +60,20 @@ This project focuses on answering the following questions:
 - Install all packages using requirements.txt file. This is the command to install: `pip install -r requirements.txt`
 
 - Run all cells in the notebook file.
+
+
+## **Results**
+
+The main findings can be found at the Medium blog post I have written [here](https://medium.com/@neo.nxmk/a-quick-peek-into-the-airbnb-activity-in-seattle-e7cfd21c18).
+
+
+## **Acknowledgements**
+
+- Data Source: [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle/metadata?select=listings.csv)
+- Acknowledgements:
+
+    Dataset credit
+
+    A sneak peek into the Airbnb activity in Seattle, WA, USA, Airbnb (Owner).
+
+- License MIT License
